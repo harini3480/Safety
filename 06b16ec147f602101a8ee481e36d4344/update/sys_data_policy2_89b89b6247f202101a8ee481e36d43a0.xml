@@ -11,7 +11,7 @@
         <inherit>false</inherit>
         <model_id/>
         <model_table>x_1438983_safety_issues</model_table>
-        <reverse_if_false>true</reverse_if_false>
+        <reverse_if_false>false</reverse_if_false>
         <short_description>Safety State set to Working</short_description>
         <sys_class_name>sys_data_policy2</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -19,7 +19,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>89b89b6247f202101a8ee481e36d43a0</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Safety State set to Working</sys_name>
         <sys_overrides/>
         <sys_package display_value="Safety" source="x_1438983_safety">06b16ec147f602101a8ee481e36d4344</sys_package>
@@ -27,6 +27,6 @@
         <sys_scope display_value="Safety">06b16ec147f602101a8ee481e36d4344</sys_scope>
         <sys_update_name>sys_data_policy2_89b89b6247f202101a8ee481e36d43a0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-18 08:05:06</sys_updated_on>
+        <sys_updated_on>2024-06-19 13:04:26</sys_updated_on>
     </sys_data_policy2>
 </record_update>
